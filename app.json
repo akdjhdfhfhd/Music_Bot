@@ -1,7 +1,7 @@
 {
-    "name": "ғᴀʟʟᴇɴ ダ ᴍᴜsɪᴄ",
-    "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/6f99c49bdb4679acad717.jpg",
+    "name": "Sherif Music",
+    "description": "A VC Player Bot for telegram videochats, written in Python by Sherif Sami.",
+    "logo": "https://te.legra.ph/file/2bfce55ca67f369a01edb.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -32,7 +32,7 @@
         "required": true
       },
       "SESSION": {
-        "description": "A pyrogram v2 string session from @StringFatherBot",
+        "description": "A pyrogram string session from @SessionStringGeneratorZBot",
         "value": "",
         "required": true
       },
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "Link of your telegram support group. (Must pe public)",
-        "value": "https://t.me/DevilsHeavenMF",
+        "value": "https://t.me/About_Sherif",
         "required": false
       }
     },
